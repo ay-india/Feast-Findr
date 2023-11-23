@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507583071061",
+    "project_id": "feast-findr",
+    "storage_bucket": "feast-findr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507583071061:android:d4820f1e8bbff718b125dc",
+        "android_client_info": {
+          "package_name": "com.example.feast_findr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOxBfzCHh2yRvcxUJQEMAd90ChvCOUdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
